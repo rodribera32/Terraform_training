@@ -5,7 +5,6 @@
 Before you begin, make sure you have the following installed:
 
 - [Terraform](https://www.terraform.io/downloads.html)
-- [AWS CLI](https://aws.amazon.com/cli/)
 
 ## Configuration
 
